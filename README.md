@@ -28,3 +28,6 @@ The API used can get:
 - LinkedList
 - Servo
 
+## Photos
+![alt text](https://github.com/Veitchie/ESP8266-minectaft-monitor/blob/main/images/render%20-%20top.jpg?raw=true)
+![alt text](https://github.com/Veitchie/ESP8266-minectaft-monitor/blob/main/images/render%20-%20front.jpg?raw=true)
