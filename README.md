@@ -31,5 +31,3 @@ The API used can get:
 ## Photos
 ![alt text](https://github.com/Veitchie/ESP8266-minectaft-monitor/blob/main/images/render%20-%20top.jpg?raw=true)
 ![alt text](https://github.com/Veitchie/ESP8266-minectaft-monitor/blob/main/images/render%20-%20front.jpg?raw=true)
-
-.STEP files are not uploaded yet because AutoDesk don't like fun.
