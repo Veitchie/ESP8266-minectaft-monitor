@@ -3,7 +3,7 @@
 
 ![alt text](https://github.com/Veitchie/ESP8266-minectaft-monitor/blob/main/images/photo%20-%20front.jpg?raw=true)
 
-A servo motor and 6 LEDs controller with a NodMCU (ESP8266) microcontroller
+A servo motor and 6 LEDs controlled with a NodMCU (ESP8266) microcontroller
 to display minecraft server info.
 
 The servo moves the arm to indicate the current number of players (current / max)
